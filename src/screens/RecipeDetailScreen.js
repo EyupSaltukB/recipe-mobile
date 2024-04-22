@@ -53,7 +53,7 @@ const RecipeDetailScreen = ({navigation, route}) => {
         <Text
           style={{
             color: AppColors.black,
-            marginTop: 100,
+            marginTop: 150,
             fontSize: 25,
             fontWeight: 'bold',
           }}>
@@ -70,7 +70,7 @@ const RecipeDetailScreen = ({navigation, route}) => {
                 marginVertical: 15,
                 fontStyle: 'italic',
               }}>
-              {item.description}
+              {item.description}...
             </Text>
 
             {/* details */}
