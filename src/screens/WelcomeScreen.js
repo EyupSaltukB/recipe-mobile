@@ -18,7 +18,7 @@ export default function WelcomeScreen() {
           fontSize: 25,
           marginTop: 25,
         }}>
-        40K + Recipes
+        10K + Recipes
       </Text>
       <Text
         style={{
